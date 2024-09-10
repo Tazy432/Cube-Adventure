@@ -1,18 +1,25 @@
 # Cube-Adventure
 
-A game about a cube avoiding obstacles. To play the game, ensure you have Git installed on your computer.
+**Cube-Adventure** is a game where you control a cube that must avoid obstacles to succeed. 
+
+## Prerequisites
+
+Make sure you have [Git](https://git-scm.com/) installed on your computer before proceeding.
 
 ## Instructions for Starting the Game
 
-Follow these steps to get started:
+1. **Open Command Prompt (cmd) on Windows**:
+   - Navigate to the location where you want to install the game.
 
-### Step 1: Open Command Prompt
+2. **Clone the Repository**:
+   - In the terminal, enter the following command:
+     ```bash
+     git clone https://github.com/Tazy432/Cube-Adventure
+     ```
 
-Open Command Prompt (cmd) on Windows and navigate to the directory where you want to install the game.
+3. **Navigate to the Game Folder**:
+   - In the location where the repository was cloned, find and open the folder named `Cube-Adventure`.
+   - Inside this folder, you’ll find another folder named `Now we're square`. Open this folder.
+   - Within this folder, there is an application called `Cube Adventure`. Double-click on this file to start the game.
 
-### Step 2: Clone the Repository
-
-In the terminal, execute the following command to clone the repository:
-
-```bash
-git clone https://github.com/Tazy432/Cube-Adventure
+Enjoy your adventure with the cube!
